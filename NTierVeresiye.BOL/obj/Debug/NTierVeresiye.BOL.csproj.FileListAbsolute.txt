@@ -1,0 +1,80 @@
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\MySql.Data.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\MySql.Data.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CopyComplete
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\MySql.Data.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\bin\Debug\MySql.Data.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CopyComplete
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\MySql.Data.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\MySql.Data.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CopyComplete
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\MySql.Data.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\bin\Debug\MySql.Data.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CopyComplete
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\MySql.Data.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\Google.Protobuf.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\bin\Debug\MySql.Data.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.csproj.CopyComplete
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.BOL\obj\Debug\NTierVeresiye.BOL.pdb

@@ -1,0 +1,20 @@
+C:\Users\Section1\source\repos\WFXML\WFXML\bin\Debug\WFXML.exe.config
+C:\Users\Section1\source\repos\WFXML\WFXML\bin\Debug\WFXML.exe
+C:\Users\Section1\source\repos\WFXML\WFXML\bin\Debug\WFXML.pdb
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.Form1.resources
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.Properties.Resources.resources
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.exe
+C:\Users\Section1\source\repos\WFXML\WFXML\obj\Debug\WFXML.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\bin\Debug\WFXML.exe.config
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\bin\Debug\WFXML.exe
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\bin\Debug\WFXML.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.Form1.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.Properties.Resources.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.exe
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\WFXML\WFXML\obj\Debug\WFXML.pdb

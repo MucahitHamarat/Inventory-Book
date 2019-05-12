@@ -1,0 +1,163 @@
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CopyComplete
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CopyComplete
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CopyComplete
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CopyComplete
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BLL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CopyComplete
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.UrunFormlari.frmUrun.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.UrunFormlari.frmUrun.resources
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Form1.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteri.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriBul.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.MusteriFormlari.frmMusteriDuzeltSil.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.frmMusteriListesi.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.Properties.Resources.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.UrunFormlari.frmUrun.resources
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.exe
+C:\Users\E430\Desktop\githuba yüklenecekler\VERESİYE DEFTERİ\NTierVrsy.WFUI\obj\Debug\NTierVrsy.WFUI.pdb

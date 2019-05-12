@@ -1,0 +1,90 @@
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\repository17+24ocakVeresiye\veresiye24OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\Section1\Desktop\25Ocakrepository17+ocakVeresiye\veresiye25OcakSabahDrivedan\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.DAL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.pdb
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\NTierVeresiye.BOL.dll.config
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.dll
+C:\Users\E430\Desktop\Yeni klasör (2)\23 ocak versiye\NTierVeresiye.DAL\obj\Debug\NTierVeresiye.DAL.pdb

@@ -1,0 +1,13 @@
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.dll.config
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\bin\Debug\NTierVeresiye.WFUI.pdb
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.frmVeresiyeAnaSayfa.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Musteri.frmMusteriDuzeltSil.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Musteri.frmMusteriEkle.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Musteri.frmMusteriListesi.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.Properties.Resources.resources
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.dll
+C:\Users\Section1\source\repos\NTierVeresiyeSolution\NTierVeresiye.WFUI\obj\Debug\NTierVeresiye.WFUI.pdb
